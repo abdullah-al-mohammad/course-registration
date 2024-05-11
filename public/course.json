@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.postimg.cc/nLfkWc17/Banner-2.png",
+      "course_name": "Introduction to Python Programming",
+      "credit": 3,
+      "price": "$49.99",
+      "details": "Learn Python programming language from scratch."
+    },
+    {
+      "id": 2,
+      "img": "https://i.postimg.cc/J7YQLQqR/Rectangle-2-1.png",
+      "course_name": "Web Development with JavaScript",
+      "credit": 4,
+      "price": "$79.99",
+      "details": "Master JavaScript and build interactive websites."
+    },
+    {
+      "id": 3,
+      "img": "https://i.postimg.cc/qMtxMCby/Rectangle-2-2.png",
+      "course_name": "Data Science Fundamentals",
+      "credit": 5,
+      "price": "$99.99",
+      "details": "Gain foundational knowledge in data science."
+    },
+    {
+      "id": 4,
+      "img": "https://i.postimg.cc/4dNzCKHK/Rectangle-2-3.png",
+      "course_name": "Machine Learning Essentials",
+      "credit": 4,
+      "price": "$89.99",
+      "details": "Explore the fundamentals of machine learning."
+    },
+    {
+      "id": 5,
+      "img": "https://i.postimg.cc/qRb2pk21/Rectangle-2-4.png",
+      "course_name": "Digital Marketing Strategies",
+      "credit": 3,
+      "price": "$69.99",
+      "details": "Learn effective digital marketing techniques."
+    },
+    {
+      "id": 6,
+      "img": "https://i.postimg.cc/tJ8PV2SP/Rectangle-2-5.png",
+      "course_name": "Graphic Design Fundamentals",
+      "credit": 3,
+      "price": "$59.99",
+      "details": "Master the basics of graphic design."
+    },
+    {
+      "id": 7,
+      "img": "https://i.postimg.cc/FHyc7bjd/Rectangle-2-6.png",
+      "course_name": "Introduction to Artificial Intelligence",
+      "credit": 4,
+      "price": "$79.99",
+      "details": "Get an introduction to AI and its applications."
+    },
+    {
+      "id": 8,
+      "img": "https://i.postimg.cc/JnnB69SZ/Rectangle-3.png",
+      "course_name": "Financial Management Principles",
+      "credit": 4,
+      "price": "$69.99",
+      "details": "Learn essential principles of financial management."
+    },
+    {
+      "id": 9,
+      "img": "https://i.postimg.cc/RhJJ9wS0/Rectangle-3-1.png",
+      "course_name": "Photography Basics",
+      "credit": 2,
+      "price": "$39.99",
+      "details": "Master the basics of photography."
+    }
+  ]
+  
